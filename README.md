@@ -10,7 +10,7 @@ V0.3
 
      - Added Episode Number that you last watched to the Export Data
 
-     - Added Episode COunt to the export Data
+     - Added Episode Count to the export Data
 	 
 V0.2 
 
