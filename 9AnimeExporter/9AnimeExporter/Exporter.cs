@@ -26,7 +26,13 @@ namespace _9AnimeExporter
         string text = "";
         string strStart = "alt=";
         string strEnd=">";
+        string statStart = "status";
+        string statEnd = "<";
+        string nowStart = "current";
+        string nowEnd = "<";
         string data = "";
+        string status = "";
+        string now = "";
         bool stop = false;
         string path = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
 
@@ -37,6 +43,8 @@ namespace _9AnimeExporter
              strStart = "alt=";
              strEnd = ">";
              data = "";
+            status = "";
+            now = "";
              stop = false;
         }
 
@@ -58,19 +66,42 @@ namespace _9AnimeExporter
         {
 
             int Start, End;
+            int sStart, sEnd;
+            int nStart, nEnd;
            
             if (text.Contains(strStart) && text.Contains(strEnd))
             {
-                
+                //Name
                 Start = text.IndexOf(strStart, 0) + strStart.Length;
                 Start += 1;
                 End = text.IndexOf(strEnd, Start);
                 End -= 1;
-                data= text.Substring(Start, End - Start)+ "\r\n"; ;
-               string texttmp = text.Substring(End);
-                text = texttmp;
+                data= text.Substring(Start, End - Start)+ " "; ;
+                //
+                //string texttmp = text.Substring(End);
+                // text = texttmp;
 
-                ////////////////////////
+                //////////////////////// now watching
+                nStart = text.IndexOf(nowStart, 0) + nowStart.Length;
+                nStart += 2;
+                nEnd = text.IndexOf(nowEnd, nStart);
+                //sEnd -= 1;
+                now = "Watching Episode "+text.Substring(nStart, nEnd - nStart) + " "; ;
+                //
+               
+                //////////////////
+
+                //////////////////////// status
+                sStart = text.IndexOf(statStart, 0) + statStart.Length;
+                sStart += 2;
+                sEnd = text.IndexOf(statEnd, sStart);
+                //sEnd -= 1;
+                status = text.Substring(sStart, sEnd - sStart) + "\r\n"; ;
+                //
+                string texttmp = text.Substring(End);
+                text = texttmp;
+                //////////////////
+
                 // for '
                 string Replace="'";
                 string Find = "&#39;";
@@ -111,11 +142,11 @@ namespace _9AnimeExporter
 
                 ////////////////////////// 
 
-
+                string towrite = data +"| "+now+"| "+ status;
                 string file_name = path+"\\exported.txt";
                 System.IO.StreamWriter objWriter;
                 objWriter = new System.IO.StreamWriter(file_name,true);
-                objWriter.Write(data);
+                objWriter.Write(towrite);
                 objWriter.Close();
 
                 //  return text.Substring(Start, End - Start);

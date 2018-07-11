@@ -97,7 +97,7 @@
             this.label3.AutoSize = true;
             this.label3.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(188, 9);
+            this.label3.Location = new System.Drawing.Point(219, 9);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(332, 39);
             this.label3.TabIndex = 6;
@@ -130,7 +130,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button1);
             this.Name = "Exporter";
-            this.Text = "9 Anime List Exporter";
+            this.Text = "9 Anime List Exporter V0.3";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

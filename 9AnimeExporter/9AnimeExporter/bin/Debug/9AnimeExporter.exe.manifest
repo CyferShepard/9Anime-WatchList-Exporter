@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="9AnimeExporter.exe" size="13288">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="9AnimeExporter.exe" size="13800">
       <assemblyIdentity name="9AnimeExporter" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>eWma+2wklnuwBipfQjlyYpSCmdBA8FPCTIU9fQQaZ1o=</dsig:DigestValue>
+        <dsig:DigestValue>e+QoT7ZBZh58cCN+Jtpnba0AJcJFpxozKWSMvUsSzlw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
