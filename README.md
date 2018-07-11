@@ -1,5 +1,5 @@
 # 9Anime-WatchList-Exporter
-App to export you 9Anime.is bookmarks. Works will versions of the domain.
+App to export you 9Anime.is bookmarks. Works with all versions of the domain.
 
 
 Download V0.1 Now
