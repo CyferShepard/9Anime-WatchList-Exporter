@@ -30,6 +30,17 @@ namespace _9AnimeExporter
         bool stop = false;
         string path = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
 
+        public void reset()
+        {
+            // selectedfile = "";
+             text = "";
+             strStart = "alt=";
+             strEnd = ">";
+             data = "";
+             stop = false;
+        }
+
+
         public void getRawData()
         {
            
@@ -118,8 +129,8 @@ namespace _9AnimeExporter
 
         private void button1_Click(object sender, EventArgs e)
         {
- 
-           
+            reset();
+            
             if (textBox1.Text!="")
             {
                
@@ -162,6 +173,11 @@ namespace _9AnimeExporter
                 selectedfile = file;
                 label1.Text = "Ready To Export";
             }
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

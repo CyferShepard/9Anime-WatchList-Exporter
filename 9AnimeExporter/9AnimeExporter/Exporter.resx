@@ -119,7 +119,8 @@
   </resheader>
   <data name="label4.Text" xml:space="preserve">
     <value>Step 1: Go to your Watch List Page in 9Anime
-Step 2: Right Click Anywhere on the Page and then "Select Save As..", Proceed with saving the file.
+Step 2: Right Click Anywhere on the 1st Page and then "Select Save As..", Proceed with saving the file. 
+(Only Save the first page if you have multiple.)
 Step 3: Click "Select HTML File" and browse to the file you downloaded. Select The File and Click Open.
 Step 4: Click Export. A new file called Exported.txt should appear on your Desktop which will contain your exported Shows.
 

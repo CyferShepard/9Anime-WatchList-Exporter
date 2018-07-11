@@ -10,3 +10,17 @@ C:\Users\Thegan\Documents\Visual Studio 2017\Projects\9AnimeExporter\9AnimeExpor
 C:\Users\Thegan\Documents\Visual Studio 2017\Projects\9AnimeExporter\9AnimeExporter\obj\Debug\9AnimeExporter.application
 C:\Users\Thegan\Documents\Visual Studio 2017\Projects\9AnimeExporter\9AnimeExporter\obj\Debug\9AnimeExporter.exe
 C:\Users\Thegan\Documents\Visual Studio 2017\Projects\9AnimeExporter\9AnimeExporter\obj\Debug\9AnimeExporter.pdb
+C:\Users\goven\Source\Repos\9Anime-WatchList-Exporter\9AnimeExporter\9AnimeExporter\bin\Debug\9AnimeExporter.exe.config
+C:\Users\goven\Source\Repos\9Anime-WatchList-Exporter\9AnimeExporter\9AnimeExporter\bin\Debug\9AnimeExporter.exe.manifest
+C:\Users\goven\Source\Repos\9Anime-WatchList-Exporter\9AnimeExporter\9AnimeExporter\bin\Debug\9AnimeExporter.application
+C:\Users\goven\Source\Repos\9Anime-WatchList-Exporter\9AnimeExporter\9AnimeExporter\bin\Debug\9AnimeExporter.exe
+C:\Users\goven\Source\Repos\9Anime-WatchList-Exporter\9AnimeExporter\9AnimeExporter\bin\Debug\9AnimeExporter.pdb
+C:\Users\goven\Source\Repos\9Anime-WatchList-Exporter\9AnimeExporter\9AnimeExporter\obj\Debug\9AnimeExporter.csprojAssemblyReference.cache
+C:\Users\goven\Source\Repos\9Anime-WatchList-Exporter\9AnimeExporter\9AnimeExporter\obj\Debug\_9AnimeExporter.Exporter.resources
+C:\Users\goven\Source\Repos\9Anime-WatchList-Exporter\9AnimeExporter\9AnimeExporter\obj\Debug\_9AnimeExporter.Properties.Resources.resources
+C:\Users\goven\Source\Repos\9Anime-WatchList-Exporter\9AnimeExporter\9AnimeExporter\obj\Debug\9AnimeExporter.csproj.GenerateResource.cache
+C:\Users\goven\Source\Repos\9Anime-WatchList-Exporter\9AnimeExporter\9AnimeExporter\obj\Debug\9AnimeExporter.csproj.CoreCompileInputs.cache
+C:\Users\goven\Source\Repos\9Anime-WatchList-Exporter\9AnimeExporter\9AnimeExporter\obj\Debug\9AnimeExporter.exe.manifest
+C:\Users\goven\Source\Repos\9Anime-WatchList-Exporter\9AnimeExporter\9AnimeExporter\obj\Debug\9AnimeExporter.application
+C:\Users\goven\Source\Repos\9Anime-WatchList-Exporter\9AnimeExporter\9AnimeExporter\obj\Debug\9AnimeExporter.exe
+C:\Users\goven\Source\Repos\9Anime-WatchList-Exporter\9AnimeExporter\9AnimeExporter\obj\Debug\9AnimeExporter.pdb

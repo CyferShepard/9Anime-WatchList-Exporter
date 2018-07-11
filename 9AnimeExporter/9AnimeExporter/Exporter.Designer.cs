@@ -86,7 +86,7 @@
             this.label2.AutoSize = true;
             this.label2.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(7, 82);
+            this.label2.Location = new System.Drawing.Point(7, 85);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(49, 25);
             this.label2.TabIndex = 5;
@@ -99,9 +99,9 @@
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(188, 9);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(432, 39);
+            this.label3.Size = new System.Drawing.Size(332, 39);
             this.label3.TabIndex = 6;
-            this.label3.Text = "9Anime Bookmark Exporter";
+            this.label3.Text = "9Anime List Exporter";
             // 
             // label4
             // 
@@ -109,11 +109,12 @@
             this.label4.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label4.Location = new System.Drawing.Point(9, 433);
+            this.label4.Location = new System.Drawing.Point(9, 416);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(771, 119);
+            this.label4.Size = new System.Drawing.Size(771, 136);
             this.label4.TabIndex = 7;
             this.label4.Text = resources.GetString("label4.Text");
+            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // Exporter
             // 
