@@ -3,7 +3,7 @@ App to export you 9Anime.is bookmarks. Works with all versions of the domain.
 
 
 Download V0.3 Now
-https://github.com/CyferShepard/9Anime-WatchList-Exporter/raw/master/Download/9AnimeExporter%20v0.3.exe
+https://github.com/CyferShepard/9Anime-WatchList-Exporter/raw/master/Download/9AnimeExporter%20V0.3.exe
 
 ChangeLog:
 V0.3 
