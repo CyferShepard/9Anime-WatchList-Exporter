@@ -1,0 +1,12 @@
+C:\Users\Thegan\Documents\Visual Studio 2017\Projects\9AnimeExporter\9AnimeExporter\bin\Debug\9AnimeExporter.exe.config
+C:\Users\Thegan\Documents\Visual Studio 2017\Projects\9AnimeExporter\9AnimeExporter\bin\Debug\9AnimeExporter.exe.manifest
+C:\Users\Thegan\Documents\Visual Studio 2017\Projects\9AnimeExporter\9AnimeExporter\bin\Debug\9AnimeExporter.application
+C:\Users\Thegan\Documents\Visual Studio 2017\Projects\9AnimeExporter\9AnimeExporter\bin\Debug\9AnimeExporter.exe
+C:\Users\Thegan\Documents\Visual Studio 2017\Projects\9AnimeExporter\9AnimeExporter\bin\Debug\9AnimeExporter.pdb
+C:\Users\Thegan\Documents\Visual Studio 2017\Projects\9AnimeExporter\9AnimeExporter\obj\Debug\_9AnimeExporter.Exporter.resources
+C:\Users\Thegan\Documents\Visual Studio 2017\Projects\9AnimeExporter\9AnimeExporter\obj\Debug\_9AnimeExporter.Properties.Resources.resources
+C:\Users\Thegan\Documents\Visual Studio 2017\Projects\9AnimeExporter\9AnimeExporter\obj\Debug\9AnimeExporter.csproj.GenerateResource.Cache
+C:\Users\Thegan\Documents\Visual Studio 2017\Projects\9AnimeExporter\9AnimeExporter\obj\Debug\9AnimeExporter.exe.manifest
+C:\Users\Thegan\Documents\Visual Studio 2017\Projects\9AnimeExporter\9AnimeExporter\obj\Debug\9AnimeExporter.application
+C:\Users\Thegan\Documents\Visual Studio 2017\Projects\9AnimeExporter\9AnimeExporter\obj\Debug\9AnimeExporter.exe
+C:\Users\Thegan\Documents\Visual Studio 2017\Projects\9AnimeExporter\9AnimeExporter\obj\Debug\9AnimeExporter.pdb
